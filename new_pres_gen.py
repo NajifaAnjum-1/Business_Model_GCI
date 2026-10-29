@@ -436,7 +436,7 @@ def slide_06_eda_hardware(prs):
         "Key Device Findings",
         [
           "Devices >2 years old churn at 57.9% vs 41.8% baseline \u2014 a 16.1pp penalty.",
-          "Budget handsets ($1\u2013$50): 57.5% churn rate vs 41.0% for premium devices (>\$150).",
+          "Budget handsets ($1\u2013$50): 57.5% churn rate vs 41.0% for premium devices (>$150).",
           "Legacy non-web handsets (WC) show significantly higher churn than mobile-browser enabled (WCMB).",
           "Refurbished devices churn 4.5pp higher than new equivalents.",
           "IMPLICATION: Hardware upgrade subsidy targeting aged-device users is the single highest-ROI retention lever.",
